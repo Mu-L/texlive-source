@@ -592,7 +592,7 @@ PACKAGE_STRING='ps2eps (TeX Live) 1.71'
 PACKAGE_BUGREPORT='tex-k@tug.org'
 PACKAGE_URL=''
 
-ac_unique_file="ps2eps-src/src/perl/ps2eps"
+ac_unique_file="ps2eps-src/src/perl/ps2eps.pl"
 # Factoring default headers for most tests.
 ac_includes_default="\
 #include <stddef.h>
